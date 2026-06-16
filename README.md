@@ -1,1 +1,3 @@
-# juncyber-internship
+# Juncyber Internship
+
+My internship repository.
